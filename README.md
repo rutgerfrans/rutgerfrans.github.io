@@ -18,19 +18,26 @@ During my Applied Sciences graduation internship at Ivengi, I conducted literatu
 
 [Repo](https://github.com/rutgerfrans/Statemachine-Code-Generator)
 
-### Skills
-#### Hardskills
-##### Software Engineering
-In front-end development, I have gained experience in programming with WordPress, JavaScript, React and HTML to build responsive and user-friendly websites. On the back-end, I have worked with Node.js, TypeScript, and Django, developing scalable applications using REST APIs, GraphQL, and gateway architectures. Additionally, I have experience with Ubuntu LTS environments and designing robust software architectures for efficient system performance.
+# 🛠️ Skills
 
-##### Datascience & Artificial Intelligence
-I have experience in applying recursive programming with Python and C# to solve problems like sorting and language recognition. My skills include preparing datasets for machine learning models and making predictions using advanced algorithms. I have worked with NLP models like RoBERTa for sentiment analysis of financial news and continue to expand my knowledge in deep learning, distributed AI systems, and model deployment.
+## <i class="fas fa-code"></i> Software Engineering  
+- **Front-end:** WordPress, JavaScript, React, HTML, CSS  
+- **Back-end:** Node.js, TypeScript, Django  
+- **API Development:** REST APIs, GraphQL, Gateway Architectures  
+- **System Administration:** Ubuntu LTS, Performance Optimization  
 
-#### Softskills
-I'm adept at troubleshooting and creative problem-solving. I thrive in group projects, valuing 
-teamwork and collaboration. I'm proactive and dedicated, with a strong work ethic, which 
-means I see tasks through to completion. My persistence and creativity round out my skill set. 
-I am comfortable in social environments, friendly and easy talker. 
+## 🧠 Data Science & Artificial Intelligence  
+- **Programming:** Python, C# (Recursive Programming)  
+- **NLP & Machine Learning:** RoBERTa, Dataset Preparation, AI Model Deployment  
+- **Deep Learning:** Distributed AI Systems, Sentiment Analysis  
+- **Algorithms:** Sorting, Language Recognition, Predictive Analytics  
+
+## 💡 Soft Skills  
+- **Problem-Solving** & Critical Thinking  
+- **Teamwork & Collaboration**  
+- **Strong Work Ethic** & Dedication  
+- **Creativity & Adaptability**  
+
 
 ### Contact
 - r.degroen@outlook.com
