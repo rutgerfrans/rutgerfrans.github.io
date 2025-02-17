@@ -42,7 +42,7 @@ During my Applied Sciences graduation internship at Ivengi, I conducted literatu
 - **Creativity & Adaptability**  
 
 
-### 🌍 Contact
+# 🌍 Contact
 - r.degroen@outlook.com
 - [LinkedIn](https://www.linkedin.com/in/rutgerfrans/)
 
