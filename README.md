@@ -19,7 +19,7 @@
 ## Microservices with GraphQL
 <p style="text-align: justify;"> During my Applied Sciences graduation internship at Ivengi, I conducted literature research on software architectures, REST APIs, and query languages. Additionally, I designed and implemented a software architecture incorporating a gateway pattern with GraphQL. This solution improved data retrieval efficiency and reduced complexity within the monolithic architecture, enhancing overall system maintainability. </p>
 
-[Repo](https://github.com/rutgerfrans/GraphQL-in-Microservice-Gateway-Pattern)
+[Closed Source]
 
 ## Statemachine code generator
 <p style="text-align: justify;"> During my Applied Sciences graduation internship at Ivengi, I conducted literature research on software architectures, REST APIs, and query languages. As part of my work, I designed and implemented a software architecture featuring a gateway pattern with GraphQL. This approach optimized data fetching, reducing complexity within the monolithic architecture while enhancing efficiency and maintainability. </p>
