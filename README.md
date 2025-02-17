@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profilepicture_fixed.jpg" alt="Profile Picture" width="200"/>
+  <img src="profilepicture.jpg" alt="Profile Picture" width="200"/>
 </p>
 
 # 🙋‍♂️ About me
