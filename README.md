@@ -23,19 +23,19 @@ During my Applied Sciences graduation internship at Ivengi, I conducted literatu
 
 # 🛠️ Skills
 
-## 🖥️ Software Engineering  
+## Software Engineering  
 - **Front-end:** WordPress, JavaScript, React, HTML, CSS  
 - **Back-end:** Node.js, TypeScript, Django  
 - **API Development:** REST APIs, GraphQL, Gateway Architectures  
 - **System Administration:** Ubuntu LTS, Performance Optimization  
 
-## 🧠 Data Science & Artificial Intelligence  
+## Data Science & Artificial Intelligence  
 - **Programming:** Python, C# (Recursive Programming)  
 - **NLP & Machine Learning:** RoBERTa, Dataset Preparation, AI Model Deployment  
 - **Deep Learning:** Distributed AI Systems, Sentiment Analysis  
 - **Algorithms:** Sorting, Language Recognition, Predictive Analytics  
 
-## 💡 Soft Skills  
+## Soft Skills  
 - **Problem-Solving** & Critical Thinking  
 - **Teamwork & Collaboration**  
 - **Strong Work Ethic** & Dedication  
