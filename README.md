@@ -1,5 +1,5 @@
 # Rutger de Groen - Portfolio
-
+![profilepicture](profilepicture.JPEG)
 ### About me
 I am a Data Science and Artificial Intelligence student at Maastricht University, passionate about programming and software engineering. My academic journey has equipped me with skills in software development, data analysis, and AI applications. I thrive on solving complex problems and building innovative solutions with real-world impact. Currently, I work as a freelance Machine Learning Engineer, developing and optimizing NLP models for sentiment analysis of financial news, and enhancing real-time market-driven applications.
 
