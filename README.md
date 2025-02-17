@@ -7,7 +7,7 @@
 
 # 📂 Projects
 ## Steel surface shotblasting quality control with computer vision
-From September 2024 to January 2025, I worked on an automated quality control system for shot-blasted steel surfaces using computer vision. We developed SteelBlastQC, a dataset of 1,655 labeled images, and evaluated classification methods including Compact Convolutional Transformers (CCT), Support Vector Machines (SVM) with ResNet-50, and a Convolutional Autoencoder (CAE). My focus was optimizing the SVM pipeline, improving classification accuracy to 94.5%, and developing interpretability methods. Using an Agile workflow, we iteratively refined the model, with future work aimed at improving dataset quality and real-world deployment. This project resulted in a publishment of a paper for the [IJCNN 2025](https://2025.ijcnn.org/) Conference.
+<p style="text-align: justify;"> From September 2024 to January 2025, I worked on an automated quality control system for shot-blasted steel surfaces using computer vision. We developed SteelBlastQC, a dataset of 1,655 labeled images, and evaluated classification methods including Compact Convolutional Transformers (CCT), Support Vector Machines (SVM) with ResNet-50, and a Convolutional Autoencoder (CAE). My focus was optimizing the SVM pipeline, improving classification accuracy to 94.5%, and developing interpretability methods. Using an Agile workflow, we iteratively refined the model, with future work aimed at improving dataset quality and real-world deployment. This project resulted in a publishment of a paper for the [IJCNN 2025](https://2025.ijcnn.org/) Conference. </p>
 
 [Repo](https://github.com/andrejhulak/quality-control)
 
